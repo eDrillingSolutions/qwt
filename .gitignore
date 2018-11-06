@@ -1,0 +1,343 @@
+
+# /qwt/
+/qwt/lib
+/qwt/Makefile
+/qwt/.qmake.cache
+/qwt/.qmake.stash
+/qwt/qwt.pro.cache
+/qwt/Makefile.target
+
+# /qwt/classincludes/
+/qwt/classincludes/Makefile
+/qwt/classincludes/obj
+
+# /qwt/designer/
+/qwt/designer/plugins
+/qwt/designer/obj
+/qwt/designer/resources
+/qwt/designer/Makefile
+/qwt/designer/moc
+/qwt/designer/ui
+/qwt/designer/designer.pro.cache
+
+# /qwt/doc/
+/qwt/doc/html
+/qwt/doc/latex
+/qwt/doc/Doxygen.log
+/qwt/doc/Makefile
+
+# /qwt/examples/
+/qwt/examples/Makefile
+/qwt/examples/.qmake.cache
+/qwt/examples/Makefile.target
+/qwt/examples/examples.pro.cache
+/qwt/examples/bin
+
+# /qwt/examples/animation/
+/qwt/examples/animation/curvdemo2
+/qwt/examples/animation/obj
+/qwt/examples/animation/Makefile
+/qwt/examples/animation/moc
+/qwt/examples/animation/moc-release
+/qwt/examples/animation/obj-release-shared
+/qwt/examples/animation/.qmake.cache
+/qwt/examples/animation/Makefile.target
+/qwt/examples/animation/curvdemo2.pro.cache
+
+# /qwt/examples/barchart/
+/qwt/examples/barchart/obj
+/qwt/examples/barchart/moc
+/qwt/examples/barchart/Makefile
+
+# /qwt/examples/bode/
+/qwt/examples/bode/bode
+/qwt/examples/bode/obj
+/qwt/examples/bode/Makefile
+/qwt/examples/bode/moc
+/qwt/examples/bode/moc-release
+/qwt/examples/bode/obj-release-shared
+/qwt/examples/bode/.qmake.cache
+/qwt/examples/bode/Makefile.target
+/qwt/examples/bode/bode.pro.cache
+
+# /qwt/examples/controls/
+/qwt/examples/controls/Makefile
+/qwt/examples/controls/obj
+/qwt/examples/controls/moc
+
+# /qwt/examples/cpuplot/
+/qwt/examples/cpuplot/cpuplot
+/qwt/examples/cpuplot/obj
+/qwt/examples/cpuplot/Makefile
+/qwt/examples/cpuplot/moc
+/qwt/examples/cpuplot/moc-release
+/qwt/examples/cpuplot/obj-release-shared
+/qwt/examples/cpuplot/.qmake.cache
+/qwt/examples/cpuplot/Makefile.target
+/qwt/examples/cpuplot/cpuplot.pro.cache
+
+# /qwt/examples/curvdemo1/
+/qwt/examples/curvdemo1/curvdemo1
+/qwt/examples/curvdemo1/obj
+/qwt/examples/curvdemo1/Makefile
+/qwt/examples/curvdemo1/moc
+/qwt/examples/curvdemo1/moc-release
+/qwt/examples/curvdemo1/obj-release-shared
+/qwt/examples/curvdemo1/.qmake.cache
+/qwt/examples/curvdemo1/Makefile.target
+/qwt/examples/curvdemo1/curvdemo1.pro.cache
+
+# /qwt/examples/dials/
+/qwt/examples/dials/obj
+/qwt/examples/dials/dials
+/qwt/examples/dials/Makefile
+/qwt/examples/dials/moc
+/qwt/examples/dials/moc-release
+/qwt/examples/dials/obj-release-shared
+/qwt/examples/dials/.qmake.cache
+/qwt/examples/dials/Makefile.target
+/qwt/examples/dials/dials.pro.cache
+
+# /qwt/examples/distrowatch/
+/qwt/examples/distrowatch/obj
+/qwt/examples/distrowatch/moc
+/qwt/examples/distrowatch/Makefile
+
+# /qwt/examples/friedberg/
+/qwt/examples/friedberg/obj
+/qwt/examples/friedberg/moc
+/qwt/examples/friedberg/resources
+/qwt/examples/friedberg/Makefile
+
+# /qwt/examples/itemeditor/
+/qwt/examples/itemeditor/Makefile
+/qwt/examples/itemeditor/moc
+/qwt/examples/itemeditor/obj
+
+# /qwt/examples/legends/
+/qwt/examples/legends/Makefile
+/qwt/examples/legends/moc
+/qwt/examples/legends/obj
+
+# /qwt/examples/mmlbrowser/
+/qwt/examples/mmlbrowser/mmlbrowser
+/qwt/examples/mmlbrowser/obj
+/qwt/examples/mmlbrowser/Makefile
+/qwt/examples/mmlbrowser/moc
+/qwt/examples/mmlbrowser/moc-release
+/qwt/examples/mmlbrowser/obj-release-shared
+/qwt/examples/mmlbrowser/.qmake.cache
+/qwt/examples/mmlbrowser/Makefile.target
+/qwt/examples/mmlbrowser/mmlbrowser.pro.cache
+
+# /qwt/examples/oscilloscope/
+/qwt/examples/oscilloscope/moc
+/qwt/examples/oscilloscope/obj
+/qwt/examples/oscilloscope/Makefile
+
+# /qwt/examples/radio/
+/qwt/examples/radio/obj
+/qwt/examples/radio/Makefile
+/qwt/examples/radio/moc
+/qwt/examples/radio/radio
+/qwt/examples/radio/moc-release
+/qwt/examples/radio/obj-release-shared
+/qwt/examples/radio/.qmake.cache
+/qwt/examples/radio/Makefile.target
+/qwt/examples/radio/radio.pro.cache
+
+# /qwt/examples/rasterview/
+/qwt/examples/rasterview/moc
+/qwt/examples/rasterview/obj
+/qwt/examples/rasterview/Makefile
+
+# /qwt/examples/realtime/
+/qwt/examples/realtime/realtime
+/qwt/examples/realtime/obj
+/qwt/examples/realtime/Makefile
+/qwt/examples/realtime/moc
+/qwt/examples/realtime/moc-release
+/qwt/examples/realtime/obj-release-shared
+/qwt/examples/realtime/.qmake.cache
+/qwt/examples/realtime/Makefile.target
+/qwt/examples/realtime/realtime_plot.pro.cache
+
+# /qwt/examples/refreshtest/
+/qwt/examples/refreshtest/obj
+/qwt/examples/refreshtest/Makefile
+/qwt/examples/refreshtest/moc
+
+# /qwt/examples/scatterplot/
+/qwt/examples/scatterplot/Makefile
+/qwt/examples/scatterplot/obj
+/qwt/examples/scatterplot/moc
+
+# /qwt/examples/simpleplot/
+/qwt/examples/simpleplot/obj
+/qwt/examples/simpleplot/moc
+/qwt/examples/simpleplot/Makefile
+
+# /qwt/examples/sinusplot/
+/qwt/examples/sinusplot/simple
+/qwt/examples/sinusplot/obj
+/qwt/examples/sinusplot/Makefile
+/qwt/examples/sinusplot/moc
+/qwt/examples/sinusplot/moc-release
+/qwt/examples/sinusplot/obj-release-shared
+/qwt/examples/sinusplot/.qmake.cache
+/qwt/examples/sinusplot/Makefile.target
+/qwt/examples/sinusplot/simple_plot.pro.cache
+
+# /qwt/examples/spectrogram/
+/qwt/examples/spectrogram/spectrogram
+/qwt/examples/spectrogram/obj
+/qwt/examples/spectrogram/Makefile
+/qwt/examples/spectrogram/moc
+/qwt/examples/spectrogram/moc-release
+/qwt/examples/spectrogram/obj-release-shared
+/qwt/examples/spectrogram/.qmake.cache
+/qwt/examples/spectrogram/Makefile.target
+/qwt/examples/spectrogram/spectrogram.pro.cache
+
+# /qwt/examples/splineeditor/
+/qwt/examples/splineeditor/event_filter
+/qwt/examples/splineeditor/obj
+/qwt/examples/splineeditor/Makefile
+/qwt/examples/splineeditor/moc
+/qwt/examples/splineeditor/moc-release
+/qwt/examples/splineeditor/obj-release-shared
+/qwt/examples/splineeditor/.qmake.cache
+/qwt/examples/splineeditor/Makefile.target
+/qwt/examples/splineeditor/event_filter.pro.cache
+
+# /qwt/examples/stockchart/
+/qwt/examples/stockchart/obj
+/qwt/examples/stockchart/moc
+/qwt/examples/stockchart/Makefile
+
+# /qwt/examples/sysinfo/
+/qwt/examples/sysinfo/obj
+/qwt/examples/sysinfo/sysinfo
+/qwt/examples/sysinfo/Makefile
+/qwt/examples/sysinfo/moc
+/qwt/examples/sysinfo/moc-release
+/qwt/examples/sysinfo/obj-release-shared
+/qwt/examples/sysinfo/.qmake.cache
+/qwt/examples/sysinfo/Makefile.target
+/qwt/examples/sysinfo/sysinfo.pro.cache
+
+# /qwt/examples/tvplot/
+/qwt/examples/tvplot/obj
+/qwt/examples/tvplot/Makefile
+/qwt/examples/tvplot/histogram
+/qwt/examples/tvplot/moc
+/qwt/examples/tvplot/moc-release
+/qwt/examples/tvplot/obj-release-shared
+/qwt/examples/tvplot/.qmake.cache
+/qwt/examples/tvplot/Makefile.target
+/qwt/examples/tvplot/histogram.pro.cache
+
+# /qwt/playground/
+/qwt/playground/Makefile
+/qwt/playground/bin
+
+# /qwt/playground/curvetracker/
+/qwt/playground/curvetracker/obj
+/qwt/playground/curvetracker/moc
+/qwt/playground/curvetracker/Makefile
+
+# /qwt/playground/graphicscale/
+/qwt/playground/graphicscale/obj
+/qwt/playground/graphicscale/moc
+/qwt/playground/graphicscale/Makefile
+
+# /qwt/playground/plotmatrix/
+/qwt/playground/plotmatrix/Makefile
+/qwt/playground/plotmatrix/obj
+/qwt/playground/plotmatrix/moc
+/qwt/playground/plotmatrix/plotmatrix
+
+# /qwt/playground/rescaler/
+/qwt/playground/rescaler/moc
+/qwt/playground/rescaler/obj
+/qwt/playground/rescaler/Makefile
+/qwt/playground/rescaler/navigation
+
+# /qwt/playground/scaleengine/
+/qwt/playground/scaleengine/obj
+/qwt/playground/scaleengine/moc
+/qwt/playground/scaleengine/Makefile
+
+# /qwt/playground/shapes/
+/qwt/playground/shapes/obj
+/qwt/playground/shapes/moc
+/qwt/playground/shapes/Makefile
+
+# /qwt/playground/svgmap/
+/qwt/playground/svgmap/svgmap
+/qwt/playground/svgmap/obj
+/qwt/playground/svgmap/Makefile
+/qwt/playground/svgmap/moc
+/qwt/playground/svgmap/moc-release
+/qwt/playground/svgmap/obj-release-shared
+/qwt/playground/svgmap/.qmake.cache
+/qwt/playground/svgmap/Makefile.target
+/qwt/playground/svgmap/svgmap.pro.cache
+
+# /qwt/playground/symbols/
+/qwt/playground/symbols/obj
+/qwt/playground/symbols/moc
+/qwt/playground/symbols/Makefile
+
+# /qwt/playground/timescale/
+/qwt/playground/timescale/obj
+/qwt/playground/timescale/moc
+/qwt/playground/timescale/Makefile
+
+# /qwt/playground/vectorfield/
+/qwt/playground/vectorfield/obj
+/qwt/playground/vectorfield/moc
+/qwt/playground/vectorfield/Makefile
+
+# /qwt/src/
+/qwt/src/obj
+/qwt/src/moc
+/qwt/src/pkgconfig
+/qwt/src/Makefile
+/qwt/src/moc-release-shared
+/qwt/src/obj-release-shared
+/qwt/src/.qmake.cache
+/qwt/src/Makefile.target
+/qwt/src/src.pro.cache
+
+# /qwt/tests/
+/qwt/tests/Makefile
+/qwt/tests/bin
+
+# /qwt/tests/splineprof/
+/qwt/tests/splineprof/obj
+/qwt/tests/splineprof/moc
+/qwt/tests/splineprof/Makefile
+
+# /qwt/tests/splinetest/
+/qwt/tests/splinetest/obj
+/qwt/tests/splinetest/moc
+/qwt/tests/splinetest/Makefile
+
+# /qwt/textengines/
+/qwt/textengines/Makefile
+/qwt/textengines/.qmake.cache
+/qwt/textengines/textengines.pro.cache
+
+# /qwt/textengines/mathml/
+/qwt/textengines/mathml/qtmmlwidget.cpp
+/qwt/textengines/mathml/qtmmlwidget.h
+/qwt/textengines/mathml/obj
+/qwt/textengines/mathml/pkgconfig
+/qwt/textengines/mathml/Makefile
+/qwt/textengines/mathml/moc
+/qwt/textengines/mathml/moc-release
+/qwt/textengines/mathml/obj-release-shared
+/qwt/textengines/mathml/.qmake.cache
+/qwt/textengines/mathml/Makefile.target
+/qwt/textengines/mathml/mathml.pro.cache
